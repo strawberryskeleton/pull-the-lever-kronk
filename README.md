@@ -2,6 +2,8 @@
 list of web dev resources that my sister have collected over the years
 
 
+
+
 list of ideas as of now:
 - arcade / slot machine style system to get resources randomly (may add category filter to it/ maybe not though)
 - hidden pages
@@ -21,3 +23,15 @@ list of ideas as of now:
 - light dark mode?? maybe not becoz the theme should match meme lady
 - kronk picture at side of the lever
 - lever should look like one in the movie => depends though....
+
+
+LAYOUT IDEA:
+
+- landing page:
+
+- list page:
+navbar
+page title
+filters | resources grid
+load more/pagination
+footer
