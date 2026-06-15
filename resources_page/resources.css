@@ -1,0 +1,44 @@
+:root {
+    --primary-color: #580add;
+    --secondary-color: #8f5ee3;
+    --bg-color: #7644ce;
+    --white: #fff;
+    --black: #000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+/* ====================================================
+                    HEADER STYLES
+======================================================== */
+header {
+    width: 100%;
+    background-color: var(--primary-color);
+    padding: 1rem;
+}
+
+header a button {
+    background-color: transparent;
+    border: none;
+    color: var(--white);
+    font-size: 14px;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    transition: background-color 500ms ease;
+}
+
+header a button:hover {
+    background-color: var(--secondary-color);
+}
+
+/* ====================================================
+                    MAIN STYLES
+======================================================== */
